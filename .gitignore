@@ -1,2 +1,4 @@
 .env
 env/
+AwesomeSetup.session
+.vscode/
