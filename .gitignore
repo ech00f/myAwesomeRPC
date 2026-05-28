@@ -2,3 +2,4 @@
 env/
 AwesomeSetup.session
 .vscode/
+__pycache__/
